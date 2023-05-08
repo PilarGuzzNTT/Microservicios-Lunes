@@ -10,4 +10,4 @@ spring:
           uri: https://github.com/PilarGuzzNTT/Microservicios-Lunes.git
         default-label: main
         search-paths:
-        - '*service*'
+        - '*reto-config-service*'
